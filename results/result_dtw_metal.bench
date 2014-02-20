@@ -1,0 +1,2889 @@
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 28568
+Distance: 1.87709
+1
+Miliseconds to find best match: 7.62346
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 30618
+Distance: 1.75451
+1
+Miliseconds to find best match: 11.179
+
+.
+Location : 28568
+Distance : 1.83468
+Data Scanned : 100000
+Total Execution Time : 0.02 sec
+
+Pruned by LB_Kim    :  69.88%
+Pruned by LB_Keogh  :  27.82%
+Pruned by LB_Keogh2 :   1.50%
+DTW Calculation     :   0.80%
+
+.
+Location : 30618
+Distance : 1.73422
+Data Scanned : 100000
+Total Execution Time : 0.06 sec
+
+Pruned by LB_Kim    :  73.74%
+Pruned by LB_Keogh  :  19.25%
+Pruned by LB_Keogh2 :   2.80%
+DTW Calculation     :   4.21%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 70083
+Distance: 2.92019
+1
+Miliseconds to find best match: 6.3519
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 62266
+Distance: 2.78401
+1
+Miliseconds to find best match: 9.83955
+
+.
+Location : 70082
+Distance : 2.77187
+Data Scanned : 100000
+Total Execution Time : 0.02 sec
+
+Pruned by LB_Kim    :  80.54%
+Pruned by LB_Keogh  :  15.98%
+Pruned by LB_Keogh2 :   2.48%
+DTW Calculation     :   1.00%
+
+.
+Location : 62266
+Distance : 2.35613
+Data Scanned : 100000
+Total Execution Time : 0.06 sec
+
+Pruned by LB_Kim    :  85.88%
+Pruned by LB_Keogh  :   7.69%
+Pruned by LB_Keogh2 :   3.31%
+DTW Calculation     :   3.12%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.125216
+
+= pruning ==================================
+Location: 49014
+Distance: 1.71236
+1
+Miliseconds to find best match: 5.40096
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.104384
+
+= pruning ==================================
+Location: 54099
+Distance: 1.52785
+1
+Miliseconds to find best match: 7.18592
+
+.
+Location : 49014
+Distance : 1.76101
+Data Scanned : 100000
+Total Execution Time : 0.02 sec
+
+Pruned by LB_Kim    :  78.80%
+Pruned by LB_Keogh  :  19.98%
+Pruned by LB_Keogh2 :   0.46%
+DTW Calculation     :   0.76%
+
+.
+Location : 54099
+Distance : 1.67737
+Data Scanned : 100000
+Total Execution Time : 0.05 sec
+
+Pruned by LB_Kim    :  81.03%
+Pruned by LB_Keogh  :  12.86%
+Pruned by LB_Keogh2 :   2.78%
+DTW Calculation     :   3.33%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.099872
+
+= pruning ==================================
+Location: 838
+Distance: 1.92671
+1
+Miliseconds to find best match: 6.96979
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.100128
+
+= pruning ==================================
+Location: 92858
+Distance: 1.92426
+1
+Miliseconds to find best match: 8.48365
+
+.
+Location : 838
+Distance : 1.91761
+Data Scanned : 100000
+Total Execution Time : 0.02 sec
+
+Pruned by LB_Kim    :  72.05%
+Pruned by LB_Keogh  :  26.30%
+Pruned by LB_Keogh2 :   1.32%
+DTW Calculation     :   0.32%
+
+.
+Location : 838
+Distance : 1.91761
+Data Scanned : 100000
+Total Execution Time : 0.04 sec
+
+Pruned by LB_Kim    :  72.19%
+Pruned by LB_Keogh  :  23.72%
+Pruned by LB_Keogh2 :   1.45%
+DTW Calculation     :   2.64%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.10256
+
+= pruning ==================================
+Location: 51022
+Distance: 2.10322
+1
+Miliseconds to find best match: 7.75398
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.100736
+
+= pruning ==================================
+Location: 51021
+Distance: 1.95479
+1
+Miliseconds to find best match: 12.7761
+
+.
+Location : 51022
+Distance : 2.07317
+Data Scanned : 100000
+Total Execution Time : 0.03 sec
+
+Pruned by LB_Kim    :  67.88%
+Pruned by LB_Keogh  :  25.49%
+Pruned by LB_Keogh2 :   5.35%
+DTW Calculation     :   1.28%
+
+.
+Location : 51020
+Distance : 1.8624
+Data Scanned : 100000
+Total Execution Time : 0.13 sec
+
+Pruned by LB_Kim    :  71.44%
+Pruned by LB_Keogh  :  16.45%
+Pruned by LB_Keogh2 :   5.00%
+DTW Calculation     :   7.11%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.114144
+
+= pruning ==================================
+Location: 14743
+Distance: 1.44807
+1
+Miliseconds to find best match: 5.65507
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.113696
+
+= pruning ==================================
+Location: 67387
+Distance: 1.32144
+1
+Miliseconds to find best match: 6.56688
+
+.
+Location : 47003
+Distance : 1.37705
+Data Scanned : 100000
+Total Execution Time : 0.01 sec
+
+Pruned by LB_Kim    :  84.89%
+Pruned by LB_Keogh  :  13.84%
+Pruned by LB_Keogh2 :   0.78%
+DTW Calculation     :   0.49%
+
+.
+Location : 26539
+Distance : 1.3
+Data Scanned : 100000
+Total Execution Time : 0.04 sec
+
+Pruned by LB_Kim    :  86.25%
+Pruned by LB_Keogh  :  10.79%
+Pruned by LB_Keogh2 :   0.24%
+DTW Calculation     :   2.72%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.098784
+
+= pruning ==================================
+Location: 98167
+Distance: 2.65187
+1
+Miliseconds to find best match: 8.18074
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.098752
+
+= pruning ==================================
+Location: 43973
+Distance: 1.95539
+1
+Miliseconds to find best match: 9.58608
+
+.
+Location : 98167
+Distance : 2.46364
+Data Scanned : 100000
+Total Execution Time : 0.04 sec
+
+Pruned by LB_Kim    :  44.25%
+Pruned by LB_Keogh  :  52.48%
+Pruned by LB_Keogh2 :   2.19%
+DTW Calculation     :   1.08%
+
+.
+Location : 43973
+Distance : 1.85861
+Data Scanned : 100000
+Total Execution Time : 0.06 sec
+
+Pruned by LB_Kim    :  62.14%
+Pruned by LB_Keogh  :  29.21%
+Pruned by LB_Keogh2 :   5.24%
+DTW Calculation     :   3.41%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.099552
+
+= pruning ==================================
+Location: 26261
+Distance: 2.8371
+1
+Miliseconds to find best match: 12.0009
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.10064
+
+= pruning ==================================
+Location: 23673
+Distance: 2.72396
+1
+Miliseconds to find best match: 26.3622
+
+.
+Location : 17077
+Distance : 3.17862
+Data Scanned : 100000
+Total Execution Time : 0.07 sec
+
+Pruned by LB_Kim    :  47.38%
+Pruned by LB_Keogh  :  27.09%
+Pruned by LB_Keogh2 :  23.17%
+DTW Calculation     :   2.37%
+
+.
+Location : 72426
+Distance : 2.96259
+Data Scanned : 100000
+Total Execution Time : 0.27 sec
+
+Pruned by LB_Kim    :  52.19%
+Pruned by LB_Keogh  :  10.57%
+Pruned by LB_Keogh2 :  21.12%
+DTW Calculation     :  16.13%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.11488
+
+= pruning ==================================
+Location: 34886
+Distance: 1.90298
+1
+Miliseconds to find best match: 4.71667
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.116672
+
+= pruning ==================================
+Location: 34885
+Distance: 1.70327
+1
+Miliseconds to find best match: 6.14986
+
+.
+Location : 34886
+Distance : 1.88924
+Data Scanned : 100000
+Total Execution Time : 0.01 sec
+
+Pruned by LB_Kim    :  91.82%
+Pruned by LB_Keogh  :   6.50%
+Pruned by LB_Keogh2 :   1.20%
+DTW Calculation     :   0.49%
+
+.
+Location : 41062
+Distance : 1.6679
+Data Scanned : 100000
+Total Execution Time : 0.03 sec
+
+Pruned by LB_Kim    :  94.17%
+Pruned by LB_Keogh  :   2.16%
+Pruned by LB_Keogh2 :   2.56%
+DTW Calculation     :   1.11%
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 12
+
+= loading data =============================
+Miliseconds to load data: 0.11312
+
+= pruning ==================================
+Location: 88002
+Distance: 2.78323
+1
+Miliseconds to find best match: 6.16605
+
+
+= info =====================================
+|Query| = 128	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.112352
+
+= pruning ==================================
+Location: 82647
+Distance: 2.01958
+1
+Miliseconds to find best match: 9.60246
+
+.
+Location : 88002
+Distance : 2.83388
+Data Scanned : 100000
+Total Execution Time : 0.05 sec
+
+Pruned by LB_Kim    :  73.20%
+Pruned by LB_Keogh  :  14.27%
+Pruned by LB_Keogh2 :  10.40%
+DTW Calculation     :   2.12%
+
+.
+Location : 82646
+Distance : 2.11658
+Data Scanned : 100000
+Total Execution Time : 0.1 sec
+
+Pruned by LB_Kim    :  84.02%
+Pruned by LB_Keogh  :   3.29%
+Pruned by LB_Keogh2 :   5.73%
+DTW Calculation     :   6.97%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.116832
+
+= pruning ==================================
+Location: 45346
+Distance: 3.76791
+1
+Miliseconds to find best match: 25.7215
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.114656
+
+= pruning ==================================
+Location: 45346
+Distance: 3.76712
+1
+Miliseconds to find best match: 133.659
+
+.
+Location : 45346
+Distance : 3.75016
+Data Scanned : 100000
+Total Execution Time : 0.23 sec
+
+Pruned by LB_Kim    :  21.78%
+Pruned by LB_Keogh  :  56.90%
+Pruned by LB_Keogh2 :  15.18%
+DTW Calculation     :   6.14%
+
+.
+Location : 45346
+Distance : 3.74959
+Data Scanned : 100000
+Total Execution Time : 1.25 sec
+
+Pruned by LB_Kim    :  24.39%
+Pruned by LB_Keogh  :   7.12%
+Pruned by LB_Keogh2 :  36.21%
+DTW Calculation     :  32.28%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.116352
+
+= pruning ==================================
+Location: 2042
+Distance: 4.86752
+1
+Miliseconds to find best match: 33.0896
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.12624
+
+= pruning ==================================
+Location: 2042
+Distance: 4.86752
+1
+Miliseconds to find best match: 126.999
+
+.
+Location : 1571
+Distance : 4.75272
+Data Scanned : 100000
+Total Execution Time : 0.22 sec
+
+Pruned by LB_Kim    :  34.67%
+Pruned by LB_Keogh  :  44.20%
+Pruned by LB_Keogh2 :  13.76%
+DTW Calculation     :   7.37%
+
+.
+Location : 1571
+Distance : 4.75272
+Data Scanned : 100000
+Total Execution Time : 1.19 sec
+
+Pruned by LB_Kim    :  34.74%
+Pruned by LB_Keogh  :  10.35%
+Pruned by LB_Keogh2 :  23.19%
+DTW Calculation     :  31.73%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 49199
+Distance: 4.64241
+1
+Miliseconds to find best match: 22.5462
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 11090
+Distance: 4.13479
+1
+Miliseconds to find best match: 132.705
+
+.
+Location : 49199
+Distance : 4.3289
+Data Scanned : 100000
+Total Execution Time : 0.21 sec
+
+Pruned by LB_Kim    :  21.52%
+Pruned by LB_Keogh  :  64.88%
+Pruned by LB_Keogh2 :   8.45%
+DTW Calculation     :   5.16%
+
+.
+Location : 11091
+Distance : 3.94793
+Data Scanned : 100000
+Total Execution Time : 0.89 sec
+
+Pruned by LB_Kim    :  36.32%
+Pruned by LB_Keogh  :   9.12%
+Pruned by LB_Keogh2 :  31.48%
+DTW Calculation     :  23.08%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.117088
+
+= pruning ==================================
+Location: 10657
+Distance: 4.05663
+1
+Miliseconds to find best match: 37.1568
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.113408
+
+= pruning ==================================
+Location: 91795
+Distance: 3.69957
+1
+Miliseconds to find best match: 66.2589
+
+.
+Location : 10656
+Distance : 4.44341
+Data Scanned : 100000
+Total Execution Time : 0.29 sec
+
+Pruned by LB_Kim    :  10.96%
+Pruned by LB_Keogh  :  61.46%
+Pruned by LB_Keogh2 :  19.53%
+DTW Calculation     :   8.06%
+
+.
+Location : 92070
+Distance : 3.88651
+Data Scanned : 100000
+Total Execution Time : 1.27 sec
+
+Pruned by LB_Kim    :  14.22%
+Pruned by LB_Keogh  :  45.24%
+Pruned by LB_Keogh2 :  12.35%
+DTW Calculation     :  28.19%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.11632
+
+= pruning ==================================
+Location: 2411
+Distance: 2.93962
+1
+Miliseconds to find best match: 13.3779
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 2411
+Distance: 2.93962
+1
+Miliseconds to find best match: 27.3793
+
+.
+Location : 2411
+Distance : 3.02784
+Data Scanned : 100000
+Total Execution Time : 0.06 sec
+
+Pruned by LB_Kim    :  69.94%
+Pruned by LB_Keogh  :  25.54%
+Pruned by LB_Keogh2 :   3.15%
+DTW Calculation     :   1.37%
+
+.
+Location : 2411
+Distance : 3.02784
+Data Scanned : 100000
+Total Execution Time : 0.31 sec
+
+Pruned by LB_Kim    :  70.02%
+Pruned by LB_Keogh  :  20.99%
+Pruned by LB_Keogh2 :   2.09%
+DTW Calculation     :   6.90%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 38285
+Distance: 2.8561
+1
+Miliseconds to find best match: 13.2251
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 48982
+Distance: 2.23895
+1
+Miliseconds to find best match: 28.6318
+
+.
+Location : 12674
+Distance : 3.03982
+Data Scanned : 100000
+Total Execution Time : 0.09 sec
+
+Pruned by LB_Kim    :  70.62%
+Pruned by LB_Keogh  :  23.05%
+Pruned by LB_Keogh2 :   4.02%
+DTW Calculation     :   2.30%
+
+.
+Location : 48982
+Distance : 2.36606
+Data Scanned : 100000
+Total Execution Time : 0.33 sec
+
+Pruned by LB_Kim    :  76.25%
+Pruned by LB_Keogh  :  10.81%
+Pruned by LB_Keogh2 :   4.13%
+DTW Calculation     :   8.81%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.111424
+
+= pruning ==================================
+Location: 13708
+Distance: 2.79353
+1
+Miliseconds to find best match: 16.9901
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.112032
+
+= pruning ==================================
+Location: 13706
+Distance: 2.62293
+1
+Miliseconds to find best match: 27.893
+
+.
+Location : 13708
+Distance : 2.79668
+Data Scanned : 100000
+Total Execution Time : 0.06 sec
+
+Pruned by LB_Kim    :  51.72%
+Pruned by LB_Keogh  :  43.86%
+Pruned by LB_Keogh2 :   3.12%
+DTW Calculation     :   1.29%
+
+.
+Location : 13706
+Distance : 2.644
+Data Scanned : 100000
+Total Execution Time : 0.33 sec
+
+Pruned by LB_Kim    :  55.09%
+Pruned by LB_Keogh  :  30.70%
+Pruned by LB_Keogh2 :   5.00%
+DTW Calculation     :   9.20%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.112448
+
+= pruning ==================================
+Location: 25399
+Distance: 4.336
+1
+Miliseconds to find best match: 66.0534
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.126816
+
+= pruning ==================================
+Location: 21354
+Distance: 4.29019
+1
+Miliseconds to find best match: 132.111
+
+.
+Location : 26308
+Distance : 4.98113
+Data Scanned : 100000
+Total Execution Time : 0.54 sec
+
+Pruned by LB_Kim    :   9.81%
+Pruned by LB_Keogh  :  16.91%
+Pruned by LB_Keogh2 :  60.66%
+DTW Calculation     :  12.62%
+
+.
+Location : 21354
+Distance : 4.50804
+Data Scanned : 100000
+Total Execution Time : 2.07 sec
+
+Pruned by LB_Kim    :  15.45%
+Pruned by LB_Keogh  :   2.63%
+Pruned by LB_Keogh2 :  44.54%
+DTW Calculation     :  37.38%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 2460
+Distance: 4.40273
+1
+Miliseconds to find best match: 17.8612
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 73443
+Distance: 4.05499
+1
+Miliseconds to find best match: 40.4254
+
+.
+Location : 2460
+Distance : 4.7333
+Data Scanned : 100000
+Total Execution Time : 0.12 sec
+
+Pruned by LB_Kim    :  57.06%
+Pruned by LB_Keogh  :  31.18%
+Pruned by LB_Keogh2 :   7.15%
+DTW Calculation     :   4.61%
+
+.
+Location : 22346
+Distance : 4.21765
+Data Scanned : 100000
+Total Execution Time : 0.47 sec
+
+Pruned by LB_Kim    :  65.47%
+Pruned by LB_Keogh  :  16.50%
+Pruned by LB_Keogh2 :   4.81%
+DTW Calculation     :  13.21%
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 25
+
+= loading data =============================
+Miliseconds to load data: 0.125632
+
+= pruning ==================================
+Location: 53140
+Distance: 2.71877
+1
+Miliseconds to find best match: 13.0665
+
+
+= info =====================================
+|Query| = 256	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.11184
+
+= pruning ==================================
+Location: 53140
+Distance: 2.71459
+1
+Miliseconds to find best match: 28.9053
+
+.
+Location : 53141
+Distance : 2.76309
+Data Scanned : 100000
+Total Execution Time : 0.16 sec
+
+Pruned by LB_Kim    :  46.36%
+Pruned by LB_Keogh  :  45.02%
+Pruned by LB_Keogh2 :   4.52%
+DTW Calculation     :   4.10%
+
+.
+Location : 53141
+Distance : 2.75798
+Data Scanned : 100000
+Total Execution Time : 0.59 sec
+
+Pruned by LB_Kim    :  51.68%
+Pruned by LB_Keogh  :  32.42%
+Pruned by LB_Keogh2 :   3.97%
+DTW Calculation     :  11.93%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.138336
+
+= pruning ==================================
+Location: 62202
+Distance: 7.28095
+1
+Miliseconds to find best match: 304.792
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.143232
+
+= pruning ==================================
+Location: 62215
+Distance: 6.97882
+1
+Miliseconds to find best match: 677.466
+
+.
+Location : 62202
+Distance : 7.62744
+Data Scanned : 100000
+Total Execution Time : 2.43 sec
+
+Pruned by LB_Kim    :   0.17%
+Pruned by LB_Keogh  :  17.57%
+Pruned by LB_Keogh2 :  56.14%
+DTW Calculation     :  26.12%
+
+.
+Location : 62215
+Distance : 7.33727
+Data Scanned : 100000
+Total Execution Time : 12.22 sec
+
+Pruned by LB_Kim    :   0.22%
+Pruned by LB_Keogh  :   1.09%
+Pruned by LB_Keogh2 :  42.19%
+DTW Calculation     :  56.50%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 31653
+Distance: 6.29775
+1
+Miliseconds to find best match: 173.233
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.156192
+
+= pruning ==================================
+Location: 31659
+Distance: 6.27021
+1
+Miliseconds to find best match: 435.303
+
+.
+Location : 31657
+Distance : 6.29812
+Data Scanned : 100000
+Total Execution Time : 1.38 sec
+
+Pruned by LB_Kim    :   3.81%
+Pruned by LB_Keogh  :  53.01%
+Pruned by LB_Keogh2 :  25.08%
+DTW Calculation     :  18.11%
+
+.
+Location : 31658
+Distance : 6.28591
+Data Scanned : 100000
+Total Execution Time : 8.17 sec
+
+Pruned by LB_Kim    :   3.89%
+Pruned by LB_Keogh  :  34.69%
+Pruned by LB_Keogh2 :  19.21%
+DTW Calculation     :  42.21%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.137152
+
+= pruning ==================================
+Location: 13311
+Distance: 7.58872
+1
+Miliseconds to find best match: 220.597
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.150112
+
+= pruning ==================================
+Location: 5280
+Distance: 5.99907
+1
+Miliseconds to find best match: 530.963
+
+.
+Location : 13312
+Distance : 7.82188
+Data Scanned : 100000
+Total Execution Time : 1.63 sec
+
+Pruned by LB_Kim    :   0.38%
+Pruned by LB_Keogh  :  34.58%
+Pruned by LB_Keogh2 :  45.98%
+DTW Calculation     :  19.06%
+
+.
+Location : 5280
+Distance : 6.23041
+Data Scanned : 100000
+Total Execution Time : 4.26 sec
+
+Pruned by LB_Kim    :   2.98%
+Pruned by LB_Keogh  :  17.80%
+Pruned by LB_Keogh2 :  42.95%
+DTW Calculation     :  36.27%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 44750
+Distance: 7.5824
+1
+Miliseconds to find best match: 250.544
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.0016
+
+= pruning ==================================
+Location: 25280
+Distance: 7.19206
+1
+Miliseconds to find best match: 673.064
+
+.
+Location : 44750
+Distance : 6.88374
+Data Scanned : 100000
+Total Execution Time : 1.54 sec
+
+Pruned by LB_Kim    :   4.54%
+Pruned by LB_Keogh  :  38.48%
+Pruned by LB_Keogh2 :  42.00%
+DTW Calculation     :  14.98%
+
+.
+Location : 25278
+Distance : 6.81755
+Data Scanned : 100000
+Total Execution Time : 6.61 sec
+
+Pruned by LB_Kim    :   5.53%
+Pruned by LB_Keogh  :   5.26%
+Pruned by LB_Keogh2 :  50.54%
+DTW Calculation     :  38.68%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 39754
+Distance: 5.04322
+1
+Miliseconds to find best match: 66.4005
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.06448
+
+= pruning ==================================
+Location: 39754
+Distance: 5.04322
+1
+Miliseconds to find best match: 361.959
+
+.
+Location : 39754
+Distance : 5.45605
+Data Scanned : 100000
+Total Execution Time : 0.83 sec
+
+Pruned by LB_Kim    :  19.63%
+Pruned by LB_Keogh  :  58.29%
+Pruned by LB_Keogh2 :  14.29%
+DTW Calculation     :   7.79%
+
+.
+Location : 39754
+Distance : 5.45605
+Data Scanned : 100000
+Total Execution Time : 5.06 sec
+
+Pruned by LB_Kim    :  20.61%
+Pruned by LB_Keogh  :   9.85%
+Pruned by LB_Keogh2 :  34.34%
+DTW Calculation     :  35.20%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.00176
+
+= pruning ==================================
+Location: 48983
+Distance: 4.16072
+1
+Miliseconds to find best match: 44.2322
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 45795
+Distance: 4.10717
+1
+Miliseconds to find best match: 127.092
+
+.
+Location : 48983
+Distance : 4.13954
+Data Scanned : 100000
+Total Execution Time : 0.57 sec
+
+Pruned by LB_Kim    :  49.43%
+Pruned by LB_Keogh  :  39.18%
+Pruned by LB_Keogh2 :   5.95%
+DTW Calculation     :   5.44%
+
+.
+Location : 48983
+Distance : 4.11581
+Data Scanned : 100000
+Total Execution Time : 2.02 sec
+
+Pruned by LB_Kim    :  51.54%
+Pruned by LB_Keogh  :  27.85%
+Pruned by LB_Keogh2 :   5.14%
+DTW Calculation     :  15.47%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001824
+
+= pruning ==================================
+Location: 38327
+Distance: 5.43429
+1
+Miliseconds to find best match: 25.9966
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.0016
+
+= pruning ==================================
+Location: 38330
+Distance: 5.04863
+1
+Miliseconds to find best match: 39.6284
+
+.
+Location : 38327
+Distance : 5.42702
+Data Scanned : 100000
+Total Execution Time : 0.62 sec
+
+Pruned by LB_Kim    :  33.46%
+Pruned by LB_Keogh  :  61.25%
+Pruned by LB_Keogh2 :   1.75%
+DTW Calculation     :   3.54%
+
+.
+Location : 38330
+Distance : 5.03924
+Data Scanned : 100000
+Total Execution Time : 1.86 sec
+
+Pruned by LB_Kim    :  40.16%
+Pruned by LB_Keogh  :  50.32%
+Pruned by LB_Keogh2 :   2.61%
+DTW Calculation     :   6.92%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 85375
+Distance: 7.32429
+1
+Miliseconds to find best match: 202.84
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.0016
+
+= pruning ==================================
+Location: 54249
+Distance: 6.5178
+1
+Miliseconds to find best match: 492.296
+
+.
+Location : 85375
+Distance : 7.57318
+Data Scanned : 100000
+Total Execution Time : 2.47 sec
+
+Pruned by LB_Kim    :   0.79%
+Pruned by LB_Keogh  :  34.82%
+Pruned by LB_Keogh2 :  43.10%
+DTW Calculation     :  21.30%
+
+.
+Location : 54247
+Distance : 7.0989
+Data Scanned : 100000
+Total Execution Time : 11.16 sec
+
+Pruned by LB_Kim    :   2.00%
+Pruned by LB_Keogh  :  12.29%
+Pruned by LB_Keogh2 :  36.28%
+DTW Calculation     :  49.43%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.0016
+
+= pruning ==================================
+Location: 61826
+Distance: 5.82529
+1
+Miliseconds to find best match: 144.273
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 28867
+Distance: 5.60483
+1
+Miliseconds to find best match: 320.748
+
+.
+Location : 61826
+Distance : 5.85282
+Data Scanned : 100000
+Total Execution Time : 1.39 sec
+
+Pruned by LB_Kim    :   4.80%
+Pruned by LB_Keogh  :  63.75%
+Pruned by LB_Keogh2 :  14.12%
+DTW Calculation     :  17.32%
+
+.
+Location : 28867
+Distance : 5.64487
+Data Scanned : 100000
+Total Execution Time : 4.54 sec
+
+Pruned by LB_Kim    :   8.19%
+Pruned by LB_Keogh  :  52.25%
+Pruned by LB_Keogh2 :   7.21%
+DTW Calculation     :  32.35%
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 51
+
+= loading data =============================
+Miliseconds to load data: 0.001664
+
+= pruning ==================================
+Location: 68499
+Distance: 5.96074
+1
+Miliseconds to find best match: 85.4859
+
+
+= info =====================================
+|Query| = 512	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001664
+
+= pruning ==================================
+Location: 60149
+Distance: 5.84564
+1
+Miliseconds to find best match: 346.96
+
+.
+Location : 68498
+Distance : 6.1424
+Data Scanned : 100000
+Total Execution Time : 1.34 sec
+
+Pruned by LB_Kim    :   6.12%
+Pruned by LB_Keogh  :  66.91%
+Pruned by LB_Keogh2 :  15.65%
+DTW Calculation     :  11.31%
+
+.
+Location : 60148
+Distance : 6.0095
+Data Scanned : 100000
+Total Execution Time : 6.61 sec
+
+Pruned by LB_Kim    :   9.31%
+Pruned by LB_Keogh  :  39.38%
+Pruned by LB_Keogh2 :  20.80%
+DTW Calculation     :  30.50%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001664
+
+= pruning ==================================
+Location: 56508
+Distance: 7.66493
+1
+Miliseconds to find best match: 256.863
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.212256
+
+= pruning ==================================
+Location: 57170
+Distance: 6.67491
+1
+Miliseconds to find best match: 629.434
+
+.
+Location : 56507
+Distance : 7.67775
+Data Scanned : 100000
+Total Execution Time : 5.62 sec
+
+Pruned by LB_Kim    :  10.88%
+Pruned by LB_Keogh  :  71.26%
+Pruned by LB_Keogh2 :   4.55%
+DTW Calculation     :  13.31%
+
+.
+Location : 57169
+Distance : 6.68698
+Data Scanned : 100000
+Total Execution Time : 17.22 sec
+
+Pruned by LB_Kim    :  15.19%
+Pruned by LB_Keogh  :  58.44%
+Pruned by LB_Keogh2 :   2.53%
+DTW Calculation     :  23.84%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001728
+
+= pruning ==================================
+Location: 1927
+Distance: 6.57629
+1
+Miliseconds to find best match: 191.815
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.186688
+
+= pruning ==================================
+Location: 2019
+Distance: 5.7655
+1
+Miliseconds to find best match: 403.953
+
+.
+Location : 1929
+Distance : 6.56715
+Data Scanned : 100000
+Total Execution Time : 2.49 sec
+
+Pruned by LB_Kim    :   4.87%
+Pruned by LB_Keogh  :  85.12%
+Pruned by LB_Keogh2 :   2.54%
+DTW Calculation     :   7.47%
+
+.
+Location : 2020
+Distance : 5.71731
+Data Scanned : 100000
+Total Execution Time : 7.38 sec
+
+Pruned by LB_Kim    :  10.18%
+Pruned by LB_Keogh  :  75.69%
+Pruned by LB_Keogh2 :   1.54%
+DTW Calculation     :  12.60%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 72032
+Distance: 10.5773
+1
+Miliseconds to find best match: 999.726
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 28695
+Distance: 10.4447
+1
+Miliseconds to find best match: 2434.2
+
+.
+Location : 72032
+Distance : 10.6349
+Data Scanned : 100000
+Total Execution Time : 10.57 sec
+
+Pruned by LB_Kim    :   0.07%
+Pruned by LB_Keogh  :  22.25%
+Pruned by LB_Keogh2 :  50.56%
+DTW Calculation     :  27.12%
+
+.
+Location : 72032
+Distance : 10.6153
+Data Scanned : 100000
+Total Execution Time : 56.45 sec
+
+Pruned by LB_Kim    :   0.07%
+Pruned by LB_Keogh  :   3.08%
+Pruned by LB_Keogh2 :  30.44%
+DTW Calculation     :  66.41%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001664
+
+= pruning ==================================
+Location: 41404
+Distance: 10.5892
+1
+Miliseconds to find best match: 1307.92
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 12722
+Distance: 9.78578
+1
+Miliseconds to find best match: 2490.09
+
+.
+Location : 12802
+Distance : 11.0034
+Data Scanned : 100000
+Total Execution Time : 9.01 sec
+
+Pruned by LB_Kim    :   0.03%
+Pruned by LB_Keogh  :   3.63%
+Pruned by LB_Keogh2 :  71.54%
+DTW Calculation     :  24.79%
+
+.
+Location : 12721
+Distance : 10.5879
+Data Scanned : 100000
+Total Execution Time : 46.44 sec
+
+Pruned by LB_Kim    :   0.05%
+Pruned by LB_Keogh  :   1.24%
+Pruned by LB_Keogh2 :  39.46%
+DTW Calculation     :  59.25%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.188896
+
+= pruning ==================================
+Location: 32495
+Distance: 9.89097
+1
+Miliseconds to find best match: 765.01
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.19712
+
+= pruning ==================================
+Location: 19612
+Distance: 8.71039
+1
+Miliseconds to find best match: 1685.31
+
+.
+Location : 32495
+Distance : 10.0313
+Data Scanned : 100000
+Total Execution Time : 9.94 sec
+
+Pruned by LB_Kim    :   0.02%
+Pruned by LB_Keogh  :  45.53%
+Pruned by LB_Keogh2 :  24.50%
+DTW Calculation     :  29.95%
+
+.
+Location : 19612
+Distance : 9.15181
+Data Scanned : 100000
+Total Execution Time : 38.98 sec
+
+Pruned by LB_Kim    :   0.07%
+Pruned by LB_Keogh  :  28.48%
+Pruned by LB_Keogh2 :  17.70%
+DTW Calculation     :  53.75%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001728
+
+= pruning ==================================
+Location: 67465
+Distance: 8.17286
+1
+Miliseconds to find best match: 405.21
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 67465
+Distance: 7.85215
+1
+Miliseconds to find best match: 1180.8
+
+.
+Location : 67468
+Distance : 8.56681
+Data Scanned : 100000
+Total Execution Time : 6.01 sec
+
+Pruned by LB_Kim    :   2.69%
+Pruned by LB_Keogh  :  63.45%
+Pruned by LB_Keogh2 :  13.90%
+DTW Calculation     :  19.96%
+
+.
+Location : 67468
+Distance : 8.28313
+Data Scanned : 100000
+Total Execution Time : 16.7 sec
+
+Pruned by LB_Kim    :   3.99%
+Pruned by LB_Keogh  :  38.98%
+Pruned by LB_Keogh2 :  17.10%
+DTW Calculation     :  39.92%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 68947
+Distance: 5.32061
+0
+Miliseconds to find best match: 85.8837
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 68969
+Distance: 4.74015
+1
+Miliseconds to find best match: 158.38
+
+.
+Location : 68947
+Distance : 5.33648
+Data Scanned : 100000
+Total Execution Time : 2.99 sec
+
+Pruned by LB_Kim    :   3.10%
+Pruned by LB_Keogh  :  89.50%
+Pruned by LB_Keogh2 :   0.13%
+DTW Calculation     :   7.27%
+
+.
+Location : 68969
+Distance : 4.75031
+Data Scanned : 100000
+Total Execution Time : 11.59 sec
+
+Pruned by LB_Kim    :   4.88%
+Pruned by LB_Keogh  :  79.52%
+Pruned by LB_Keogh2 :   0.12%
+DTW Calculation     :  15.47%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.18848
+
+= pruning ==================================
+Location: 50810
+Distance: 9.99886
+1
+Miliseconds to find best match: 720.318
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.186048
+
+= pruning ==================================
+Location: 70854
+Distance: 9.43392
+1
+Miliseconds to find best match: 1830.99
+
+.
+Location : 50812
+Distance : 10.9236
+Data Scanned : 100000
+Total Execution Time : 12.05 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  33.61%
+Pruned by LB_Keogh2 :  38.68%
+DTW Calculation     :  27.70%
+
+.
+Location : 50755
+Distance : 10.7783
+Data Scanned : 100000
+Total Execution Time : 57.05 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  14.31%
+Pruned by LB_Keogh2 :  23.57%
+DTW Calculation     :  62.13%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 12059
+Distance: 8.11847
+1
+Miliseconds to find best match: 485.05
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.18736
+
+= pruning ==================================
+Location: 51894
+Distance: 7.82066
+1
+Miliseconds to find best match: 1256.68
+
+.
+Location : 12057
+Distance : 8.62753
+Data Scanned : 100000
+Total Execution Time : 3.88 sec
+
+Pruned by LB_Kim    :   0.61%
+Pruned by LB_Keogh  :  64.76%
+Pruned by LB_Keogh2 :  24.24%
+DTW Calculation     :  10.40%
+
+.
+Location : 12108
+Distance : 8.20457
+Data Scanned : 100000
+Total Execution Time : 19.17 sec
+
+Pruned by LB_Kim    :   1.06%
+Pruned by LB_Keogh  :  46.19%
+Pruned by LB_Keogh2 :  23.21%
+DTW Calculation     :  29.55%
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 102
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 74848
+Distance: 7.33419
+1
+Miliseconds to find best match: 287.03
+
+
+= info =====================================
+|Query| = 1024	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001632
+
+= pruning ==================================
+Location: 63402
+Distance: 6.98337
+1
+Miliseconds to find best match: 822.349
+
+.
+Location : 74848
+Distance : 7.28555
+Data Scanned : 100000
+Total Execution Time : 5.6 sec
+
+Pruned by LB_Kim    :   6.53%
+Pruned by LB_Keogh  :  76.24%
+Pruned by LB_Keogh2 :   3.56%
+DTW Calculation     :  13.67%
+
+.
+Location : 63402
+Distance : 6.92882
+Data Scanned : 100000
+Total Execution Time : 18.79 sec
+
+Pruned by LB_Kim    :  10.08%
+Pruned by LB_Keogh  :  59.92%
+Pruned by LB_Keogh2 :   2.41%
+DTW Calculation     :  27.60%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.09168
+
+= pruning ==================================
+Location: 65604
+Distance: 10.5644
+1
+Miliseconds to find best match: 1017.1
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.302624
+
+= pruning ==================================
+Location: 65604
+Distance: 9.98479
+1
+Miliseconds to find best match: 3831.06
+
+.
+Location : 65604
+Distance : 10.3424
+Data Scanned : 100000
+Total Execution Time : 17.17 sec
+
+Pruned by LB_Kim    :   0.11%
+Pruned by LB_Keogh  :  86.79%
+Pruned by LB_Keogh2 :   2.34%
+DTW Calculation     :  10.76%
+
+.
+Location : 65604
+Distance : 9.7265
+Data Scanned : 100000
+Total Execution Time : 82.81 sec
+
+Pruned by LB_Kim    :   0.15%
+Pruned by LB_Keogh  :  61.72%
+Pruned by LB_Keogh2 :   8.97%
+DTW Calculation     :  29.15%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 21933
+Distance: 10.7626
+1
+Miliseconds to find best match: 954.201
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.285184
+
+= pruning ==================================
+Location: 21933
+Distance: 10.7626
+1
+Miliseconds to find best match: 2703.13
+
+.
+Location : 21932
+Distance : 10.653
+Data Scanned : 100000
+Total Execution Time : 11.87 sec
+
+Pruned by LB_Kim    :   0.11%
+Pruned by LB_Keogh  :  87.55%
+Pruned by LB_Keogh2 :   2.56%
+DTW Calculation     :   9.77%
+
+.
+Location : 21932
+Distance : 10.653
+Data Scanned : 100000
+Total Execution Time : 58.53 sec
+
+Pruned by LB_Kim    :   0.11%
+Pruned by LB_Keogh  :  73.61%
+Pruned by LB_Keogh2 :   2.39%
+DTW Calculation     :  23.89%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001888
+
+= pruning ==================================
+Location: 18884
+Distance: 10.0258
+1
+Miliseconds to find best match: 1145.84
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.29904
+
+= pruning ==================================
+Location: 18884
+Distance: 10.0258
+1
+Miliseconds to find best match: 2484.34
+
+.
+Location : 18882
+Distance : 10.2732
+Data Scanned : 100000
+Total Execution Time : 23.78 sec
+
+Pruned by LB_Kim    :   0.23%
+Pruned by LB_Keogh  :  82.65%
+Pruned by LB_Keogh2 :   1.47%
+DTW Calculation     :  15.65%
+
+.
+Location : 18882
+Distance : 10.2732
+Data Scanned : 100000
+Total Execution Time : 70.12 sec
+
+Pruned by LB_Kim    :   0.25%
+Pruned by LB_Keogh  :  72.48%
+Pruned by LB_Keogh2 :   0.40%
+DTW Calculation     :  26.87%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 19184
+Distance: 14.865
+1
+Miliseconds to find best match: 4914.75
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.32624
+
+= pruning ==================================
+Location: 19302
+Distance: 14.1827
+1
+Miliseconds to find best match: 8950.3
+
+.
+Location : 19183
+Distance : 14.7766
+Data Scanned : 100000
+Total Execution Time : 42.11 sec
+
+Pruned by LB_Kim    :   0.01%
+Pruned by LB_Keogh  :  27.71%
+Pruned by LB_Keogh2 :  36.08%
+DTW Calculation     :  36.19%
+
+.
+Location : 19302
+Distance : 14.1125
+Data Scanned : 100000
+Total Execution Time : 178.33 sec
+
+Pruned by LB_Kim    :   0.02%
+Pruned by LB_Keogh  :  10.75%
+Pruned by LB_Keogh2 :  19.18%
+DTW Calculation     :  70.05%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.572576
+
+= pruning ==================================
+Location: 10434
+Distance: 15.6924
+1
+Miliseconds to find best match: 6276.81
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.282688
+
+= pruning ==================================
+Location: 10434
+Distance: 15.6924
+1
+Miliseconds to find best match: 9899.44
+
+.
+Location : 50432
+Distance : 16.6307
+Data Scanned : 100000
+Total Execution Time : 73.53 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   3.20%
+Pruned by LB_Keogh2 :  52.61%
+DTW Calculation     :  44.19%
+
+.
+Location : 50432
+Distance : 16.3534
+Data Scanned : 100000
+Total Execution Time : 344.14 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   0.36%
+Pruned by LB_Keogh2 :  16.00%
+DTW Calculation     :  83.64%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.049216
+
+= pruning ==================================
+Location: 55047
+Distance: 11.1183
+1
+Miliseconds to find best match: 767.595
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.0016
+
+= pruning ==================================
+Location: 55047
+Distance: 11.1183
+1
+Miliseconds to find best match: 1988.04
+
+.
+Location : 55046
+Distance : 11.1442
+Data Scanned : 100000
+Total Execution Time : 18.58 sec
+
+Pruned by LB_Kim    :   0.03%
+Pruned by LB_Keogh  :  87.87%
+Pruned by LB_Keogh2 :   1.83%
+DTW Calculation     :  10.27%
+
+.
+Location : 55046
+Distance : 11.1442
+Data Scanned : 100000
+Total Execution Time : 80.82 sec
+
+Pruned by LB_Kim    :   0.03%
+Pruned by LB_Keogh  :  76.05%
+Pruned by LB_Keogh2 :   1.51%
+DTW Calculation     :  22.41%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.01664
+
+= pruning ==================================
+Location: 68960
+Distance: 7.21483
+1
+Miliseconds to find best match: 446.7
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.104832
+
+= pruning ==================================
+Location: 68960
+Distance: 7.15521
+1
+Miliseconds to find best match: 738.747
+
+.
+Location : 68959
+Distance : 7.19977
+Data Scanned : 100000
+Total Execution Time : 10.32 sec
+
+Pruned by LB_Kim    :   0.46%
+Pruned by LB_Keogh  :  91.38%
+Pruned by LB_Keogh2 :   0.11%
+DTW Calculation     :   8.04%
+
+.
+Location : 68959
+Distance : 7.13899
+Data Scanned : 100000
+Total Execution Time : 24.41 sec
+
+Pruned by LB_Kim    :   0.50%
+Pruned by LB_Keogh  :  85.82%
+Pruned by LB_Keogh2 :   0.21%
+DTW Calculation     :  13.47%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 34290
+Distance: 16.3321
+1
+Miliseconds to find best match: 6241.43
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.294176
+
+= pruning ==================================
+Location: 34290
+Distance: 15.3761
+1
+Miliseconds to find best match: 10256.9
+
+.
+Location : 34292
+Distance : 16.722
+Data Scanned : 100000
+Total Execution Time : 58.03 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   6.16%
+Pruned by LB_Keogh2 :  56.95%
+DTW Calculation     :  36.89%
+
+.
+Location : 34291
+Distance : 15.7219
+Data Scanned : 100000
+Total Execution Time : 288.99 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   0.31%
+Pruned by LB_Keogh2 :  25.36%
+DTW Calculation     :  74.33%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.001696
+
+= pruning ==================================
+Location: 72224
+Distance: 11.7683
+1
+Miliseconds to find best match: 3728.72
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.280928
+
+= pruning ==================================
+Location: 72224
+Distance: 11.7683
+1
+Miliseconds to find best match: 9804.88
+
+.
+Location : 72225
+Distance : 11.3094
+Data Scanned : 100000
+Total Execution Time : 43.66 sec
+
+Pruned by LB_Kim    :   0.02%
+Pruned by LB_Keogh  :  39.12%
+Pruned by LB_Keogh2 :  34.67%
+DTW Calculation     :  26.18%
+
+.
+Location : 72225
+Distance : 11.3094
+Data Scanned : 100000
+Total Execution Time : 243.71 sec
+
+Pruned by LB_Kim    :   0.03%
+Pruned by LB_Keogh  :   4.34%
+Pruned by LB_Keogh2 :  30.10%
+DTW Calculation     :  65.54%
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 204
+
+= loading data =============================
+Miliseconds to load data: 0.010848
+
+= pruning ==================================
+Location: 63387
+Distance: 10.0852
+1
+Miliseconds to find best match: 921.913
+
+
+= info =====================================
+|Query| = 2048	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.110144
+
+= pruning ==================================
+Location: 63281
+Distance: 9.1373
+1
+Miliseconds to find best match: 2820.08
+
+.
+Location : 63390
+Distance : 9.95293
+Data Scanned : 100000
+Total Execution Time : 14.82 sec
+
+Pruned by LB_Kim    :   0.06%
+Pruned by LB_Keogh  :  86.01%
+Pruned by LB_Keogh2 :   2.95%
+DTW Calculation     :  10.98%
+
+.
+Location : 63278
+Distance : 9.08209
+Data Scanned : 100000
+Total Execution Time : 66.77 sec
+
+Pruned by LB_Kim    :   0.07%
+Pruned by LB_Keogh  :  64.02%
+Pruned by LB_Keogh2 :   6.52%
+DTW Calculation     :  29.39%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.48336
+
+= pruning ==================================
+Location: 24726
+Distance: 16.238
+1
+Miliseconds to find best match: 3055.71
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.493376
+
+= pruning ==================================
+Location: 24621
+Distance: 15.7422
+1
+Miliseconds to find best match: 16485.3
+
+.
+Location : 24796
+Distance : 16.2443
+Data Scanned : 100000
+Total Execution Time : 139.53 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  80.94%
+Pruned by LB_Keogh2 :   1.91%
+DTW Calculation     :  17.15%
+
+.
+Location : 24622
+Distance : 15.7474
+Data Scanned : 100000
+Total Execution Time : 385.3 sec
+
+Pruned by LB_Kim    :   0.01%
+Pruned by LB_Keogh  :  68.36%
+Pruned by LB_Keogh2 :   4.90%
+DTW Calculation     :  26.72%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.58768
+
+= pruning ==================================
+Location: 1930
+Distance: 19.7418
+1
+Miliseconds to find best match: 11960.1
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.503328
+
+= pruning ==================================
+Location: 2071
+Distance: 19.3822
+1
+Miliseconds to find best match: 53883.2
+
+.
+Location : 1921
+Distance : 18.0189
+Data Scanned : 100000
+Total Execution Time : 70.94 sec
+
+Pruned by LB_Kim    :   0.02%
+Pruned by LB_Keogh  :  70.11%
+Pruned by LB_Keogh2 :   5.22%
+DTW Calculation     :  24.65%
+
+.
+Location : 1569
+Distance : 17.4334
+Data Scanned : 100000
+Total Execution Time : 321.15 sec
+
+Pruned by LB_Kim    :   0.02%
+Pruned by LB_Keogh  :  28.56%
+Pruned by LB_Keogh2 :  11.02%
+DTW Calculation     :  60.39%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.48416
+
+= pruning ==================================
+Location: 75270
+Distance: 15.4823
+1
+Miliseconds to find best match: 6293.07
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.490688
+
+= pruning ==================================
+Location: 75292
+Distance: 14.2568
+1
+Miliseconds to find best match: 36629.9
+
+.
+Location : 75271
+Distance : 15.572
+Data Scanned : 100000
+Total Execution Time : 106.55 sec
+
+Pruned by LB_Kim    :   0.01%
+Pruned by LB_Keogh  :  73.21%
+Pruned by LB_Keogh2 :  10.01%
+DTW Calculation     :  16.77%
+
+.
+Location : 75291
+Distance : 14.2803
+Data Scanned : 100000
+Total Execution Time : 515.14 sec
+
+Pruned by LB_Kim    :   0.03%
+Pruned by LB_Keogh  :  34.51%
+Pruned by LB_Keogh2 :  22.75%
+DTW Calculation     :  42.71%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.481376
+
+= pruning ==================================
+Location: 32570
+Distance: 42.5916
+0
+Miliseconds to find best match: 27885.7
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.501728
+
+= pruning ==================================
+Location: 32685
+Distance: 41.0755
+0
+Miliseconds to find best match: 63304.3
+
+.
+Location : 32572
+Distance : 23.672
+Data Scanned : 100000
+Total Execution Time : 459.34 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   4.76%
+Pruned by LB_Keogh2 :  32.39%
+DTW Calculation     :  62.85%
+
+.
+Location : 32831
+Distance : 23.2773
+Data Scanned : 100000
+Total Execution Time : 1546.75 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   2.36%
+Pruned by LB_Keogh2 :   6.95%
+DTW Calculation     :  90.68%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.481312
+
+= pruning ==================================
+Location: 28744
+Distance: 20.1991
+1
+Miliseconds to find best match: 25424.9
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.522016
+
+= pruning ==================================
+Location: 50031
+Distance: 19.6404
+1
+Miliseconds to find best match: 59791.7
+
+.
+Location : 28744
+Distance : 22.3939
+Data Scanned : 100000
+Total Execution Time : 439.69 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   1.83%
+Pruned by LB_Keogh2 :  30.85%
+DTW Calculation     :  67.32%
+
+.
+Location : 50028
+Distance : 22.2227
+Data Scanned : 100000
+Total Execution Time : 1824.31 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   0.97%
+Pruned by LB_Keogh2 :  10.68%
+DTW Calculation     :  88.35%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.506368
+
+= pruning ==================================
+Location: 20624
+Distance: 25.1671
+1
+Miliseconds to find best match: 3929.86
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.50464
+
+= pruning ==================================
+Location: 21229
+Distance: 23.3231
+1
+Miliseconds to find best match: 18091.8
+
+.
+Location : 20623
+Distance : 25.2594
+Data Scanned : 100000
+Total Execution Time : 132.1 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  80.84%
+Pruned by LB_Keogh2 :   1.04%
+DTW Calculation     :  18.12%
+
+.
+Location : 21229
+Distance : 23.3758
+Data Scanned : 100000
+Total Execution Time : 508.35 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  65.31%
+Pruned by LB_Keogh2 :   1.49%
+DTW Calculation     :  33.20%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.81056
+
+= pruning ==================================
+Location: 68962
+Distance: 13.8273
+1
+Miliseconds to find best match: 3052.61
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.303808
+
+= pruning ==================================
+Location: 68962
+Distance: 13.4004
+1
+Miliseconds to find best match: 10423.2
+
+.
+Location : 68961
+Distance : 13.8336
+Data Scanned : 100000
+Total Execution Time : 80.4 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  78.33%
+Pruned by LB_Keogh2 :   2.65%
+DTW Calculation     :  19.03%
+
+.
+Location : 68961
+Distance : 13.4061
+Data Scanned : 100000
+Total Execution Time : 197.48 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  62.18%
+Pruned by LB_Keogh2 :   8.70%
+DTW Calculation     :  29.12%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.484384
+
+= pruning ==================================
+Location: 59599
+Distance: 24.1448
+0
+Miliseconds to find best match: 26932.1
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.490592
+
+= pruning ==================================
+Location: 32892
+Distance: 23.4223
+0
+Miliseconds to find best match: 61871.2
+
+.
+Location : 59601
+Distance : 25.0981
+Data Scanned : 100000
+Total Execution Time : 387.98 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   1.80%
+Pruned by LB_Keogh2 :  30.58%
+DTW Calculation     :  67.62%
+
+.
+Location : 32892
+Distance : 24.1501
+Data Scanned : 100000
+Total Execution Time : 1490.47 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   1.11%
+Pruned by LB_Keogh2 :   1.61%
+DTW Calculation     :  97.28%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.486176
+
+= pruning ==================================
+Location: 72226
+Distance: 13.7155
+1
+Miliseconds to find best match: 15551.7
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.513344
+
+= pruning ==================================
+Location: 72226
+Distance: 13.7155
+1
+Miliseconds to find best match: 52923.4
+
+.
+Location : 72226
+Distance : 14.3212
+Data Scanned : 100000
+Total Execution Time : 252.79 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  16.12%
+Pruned by LB_Keogh2 :  38.79%
+DTW Calculation     :  45.09%
+
+.
+Location : 72226
+Distance : 14.3212
+Data Scanned : 100000
+Total Execution Time : 1303.43 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   5.10%
+Pruned by LB_Keogh2 :  10.01%
+DTW Calculation     :  84.89%
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 409
+
+= loading data =============================
+Miliseconds to load data: 0.487424
+
+= pruning ==================================
+Location: 63186
+Distance: 18.8897
+1
+Miliseconds to find best match: 18936.4
+
+
+= info =====================================
+|Query| = 4096	|Subject| = 100000	window = 819
+
+= loading data =============================
+Miliseconds to load data: 0.51504
+
+= pruning ==================================
+Location: 62957
+Distance: 18.3071
+1
+Miliseconds to find best match: 57536.6
+
+.
+Location : 63168
+Distance : 19.1245
+Data Scanned : 100000
+Total Execution Time : 238.47 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :  22.78%
+Pruned by LB_Keogh2 :  32.31%
+DTW Calculation     :  44.92%
+
+.
+Location : 62958
+Distance : 18.5728
+Data Scanned : 100000
+Total Execution Time : 1082.39 sec
+
+Pruned by LB_Kim    :   0.00%
+Pruned by LB_Keogh  :   6.38%
+Pruned by LB_Keogh2 :  15.13%
+DTW Calculation     :  78.49%
+
+metal summary
+gpu10avg: [0.0070819520000000007, 0.025908830000000001, 0.15183942, 0.55048257, 2.6415058999999999, 14.302215]
+gpu10std: [0.0019490755510897981, 0.015582502710030246, 0.089498052266569456, 0.37093085560271755, 2.2700878009924397, 9.5970370780176211]
+ucr10avg: [0.029000000000000005, 0.19800000000000001, 1.4199999999999999, 6.8159999999999998, 31.387, 230.779]
+ucr10std: [0.018138357147217055, 0.13577923257994942, 0.62454783643849099, 3.1873443491408331, 20.67534089199015, 142.40745966767329]
+gpu20avg: [0.010773170000000002, 0.074496770000000004, 0.40054794000000005, 1.2892185999999999, 5.3476916999999995, 43.094059999999999]
+gpu20std: [0.0055499892712004414, 0.04771490005738354, 0.19833108505706412, 0.77019910345354203, 3.6616275859188643, 19.757945158654532]
+ucr20avg: [0.083999999999999991, 0.86999999999999988, 6.2509999999999994, 28.977000000000004, 143.863, 917.47700000000009]
+ucr20std: [0.068293484315855496, 0.54611354130803236, 3.3039353807240239, 17.903959366575872, 106.2845754613528, 566.5052061729001]
