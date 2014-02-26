@@ -1,7 +1,7 @@
 CUDA-DTW
 ===
 
-Please, have a look at the corresponding [website.](http://gravitino.github.io/GPU-Suite/)
+Please, have a look at the corresponding [website.](http://gravitino.github.io/cudadtw/)
 
 Feel free to browse the repository:
 
