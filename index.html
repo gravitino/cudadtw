@@ -33,18 +33,21 @@
 <h1>
 <a name="algorithms" class="anchor" href="#algorithms"><span class="octicon octicon-link"></span></a>Algorithms</h1>
 
-<p>This supplementary website provides additional material for the parallelization of Subsequence Euclidean Distance and Subsequence Dynamic Time Warping on CUDA-enabled accelerators. The complete source code including the used datasets can be found on the left side at the corresponding github repository.</p>
+<p>This supplementary website provides additional material for the parallelization of Subsequence Euclidean Distance (ED) and Subsequence Dynamic Time Warping (DTW) on CUDA-enabled accelerators. The complete source code including the used datasets can be found on the left side at the corresponding github repository.</p>
 
 <h2>
 <a name="z-normalized-subsequence-euclidean-distance" class="anchor" href="#z-normalized-subsequence-euclidean-distance"><span class="octicon octicon-link"></span></a>z-Normalized Subsequence Euclidean Distance</h2>
 
-<p>Our proposed implementation of the locally z-normalized alignment of time series subsequences in a stream of time series data makes excessive use of Fast Fourier Transforms on the GPU. The CUDA-parallelization features log-linear runtime in terms of the stream lengths and is almost independent of the query length. As a result, arbitrarily long queries can be performed without increasing of the runtime.
-<img src="https://raw.github.com/gravitino/GPU-Suite/master/images/edecg.png" alt="ecg benchmark"><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/edmetal.png" alt="metal benchmark"></p>
+<p>Our proposed implementation of the locally z-normalized alignment of time series subsequences in a stream of time series data makes excessive use of Fast Fourier Transforms on the GPU. The CUDA-parallelization features log-linear runtime in terms of the stream lengths and is almost independent of the query length. As a result, arbitrarily long queries can be performed without increasing of the runtime in contrast to the ED portion of the <a href="http://www.cs.ucr.edu/%7Eeamonn/UCRsuite.html">UCR-Suite</a>
+<img src="https://raw.github.com/gravitino/GPU-Suite/master/images/edecg.png" alt="ecg benchmark"><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/edmetal.png" alt="metal benchmark">
+The core routines can be found <a href="https://github.com/gravitino/GPU-Suite/blob/master/include/ed.cuh">here</a>.</p>
 
 <h2>
 <a name="z-normalized-subsequence-dynamic-time-warping-with-sakoe-shiba-constraint" class="anchor" href="#z-normalized-subsequence-dynamic-time-warping-with-sakoe-shiba-constraint"><span class="octicon octicon-link"></span></a>z-Normalized Subsequence Dynamic Time Warping with Sakoe-Shiba Constraint</h2>
 
-<p><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/dtwdiagscheme.png" alt="DTW diagonal scheme"><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/dtwecg.png" alt="ecg benchmark"><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/dtwmetal.png" alt="metal benchmark"></p>
+<p><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/dtwdiagscheme.png" alt="DTW diagonal scheme"></p>
+
+<p><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/dtwecg.png" alt="ecg benchmark"><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/dtwmetal.png" alt="metal benchmark"></p>
 
 <h1>
 <a name="data-sets" class="anchor" href="#data-sets"><span class="octicon octicon-link"></span></a>Data Sets</h1>
