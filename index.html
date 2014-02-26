@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>CUDA-DTW-ED by gravitino</title>
+    <title>CUDA-DTW by gravitino</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>CUDA-DTW-ED</h1>
+        <h1>CUDA-DTW</h1>
         <p>Subsequence Search under Euclidean Distance and Dynamic Time Warping</p>
 
         <p class="view"><a href="https://github.com/gravitino/GPU-Suite">View the Project on GitHub <small>gravitino/GPU-Suite</small></a></p>
@@ -52,17 +52,19 @@ The proposed parallelization scheme of Constrained Dynamic Time Warping uses wav
 The core routines can be found at <a href="https://github.com/gravitino/GPU-Suite/blob/master/include/cdtw.cuh">our github repository</a>.</p>
 
 <h1>
-<a name="data-sets" class="anchor" href="#data-sets"><span class="octicon octicon-link"></span></a>Data Sets</h1>
+<a name="datasets" class="anchor" href="#datasets"><span class="octicon octicon-link"></span></a>Datasets</h1>
 
 <h2>
 <a name="ecg" class="anchor" href="#ecg"><span class="octicon octicon-link"></span></a>ECG</h2>
 
-<p><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/ecg_sub_ed.png" alt="ecg data set"></p>
+<p>The dataset consists of approximately 22 hours streamed electrocardiograms (20,140,000 data points) and was used during the evaluation of the UCR-Suite by Rakthanmanon et al. The full dataset can be downloaded at the <a href="http://www.cs.ucr.edu/%7Eeamonn/UCRsuite.html">supplementary website of the paper</a>. We reuse this dataset to ensure a fair comparison between the UCR-Suite and our implementations. The use of windowed z-normalization is advisable due to the time-dependent offset of the stream. The used queries and streams can be found <a href="https://github.com/gravitino/GPU-Suite/tree/master/data/ecg">here</a>.
+<img src="https://raw.github.com/gravitino/GPU-Suite/master/images/ecg_sub_ed.png" alt="ecg data set"></p>
 
 <h2>
 <a name="metal" class="anchor" href="#metal"><span class="octicon octicon-link"></span></a>Metal</h2>
 
-<p><img src="https://raw.github.com/gravitino/GPU-Suite/master/images/steel.png" alt="metal data set"></p>
+<p>The dataset consists of 1,000 pairs of thickness signals measured during the hot rolling of metal bands in steel mills. The obtained time series are used for quality monitoring during the production process. Each time series is measured twice to avoid accidental mix-ups. Hence, we can access two individually recorded streams (both of about 11 Mio. data points) -- one for the extraction of the queries and one for the target data stream. The full dataset can be downloaded <a href="https://github.com/gravitino/GPU-Suite/tree/master/data/metal">here</a>. Analogous to the ECG signals, the data exhibits time-dependent offset shifts, too. Hence the use of windowed z-normalization is advisable.
+<img src="https://raw.github.com/gravitino/GPU-Suite/master/images/steel.png" alt="metal data set"></p>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/gravitino">gravitino</a></p>
