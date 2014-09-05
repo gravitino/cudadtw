@@ -1,0 +1,150 @@
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 11.8847
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 331.283
+best alignment found at index 18306526 with distance 1.0385
+
+Miliseconds to find best alignment on all cores: 8512.81
+best alignment found at index 18306526 with distance 1.0385
+
+Miliseconds to find best alignment on a single core: 56901.8
+best alignment found at index 18306526 with distance 1.0385
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.1287
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 330.145
+best alignment found at index 4684453 with distance 1.6693
+
+Miliseconds to find best alignment on all cores: 8814.64
+best alignment found at index 4684453 with distance 1.6693
+
+Miliseconds to find best alignment on a single core: 59537.1
+best alignment found at index 4684453 with distance 1.6693
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.3123
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 330.46
+best alignment found at index 430643 with distance 2.12595
+
+Miliseconds to find best alignment on all cores: 8907.36
+best alignment found at index 430643 with distance 2.12595
+
+Miliseconds to find best alignment on a single core: 59501.9
+best alignment found at index 430643 with distance 2.12595
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.066
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 325.3
+best alignment found at index 2216931 with distance 2.19636
+
+Miliseconds to find best alignment on all cores: 8834.89
+best alignment found at index 2216931 with distance 2.19636
+
+Miliseconds to find best alignment on a single core: 59643.3
+best alignment found at index 2216931 with distance 2.19636
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.2052
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 330.996
+best alignment found at index 5481059 with distance 1.29607
+
+Miliseconds to find best alignment on all cores: 8511.62
+best alignment found at index 5481059 with distance 1.29607
+
+Miliseconds to find best alignment on a single core: 57182.8
+best alignment found at index 5481059 with distance 1.29607
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.1549
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 333.72
+best alignment found at index 410602 with distance 1.63136
+
+Miliseconds to find best alignment on all cores: 8945.56
+best alignment found at index 410602 with distance 1.63136
+
+Miliseconds to find best alignment on a single core: 60008.8
+best alignment found at index 410602 with distance 1.63136
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.1109
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 341.182
+best alignment found at index 5174367 with distance 2.86371
+
+Miliseconds to find best alignment on all cores: 8740.67
+best alignment found at index 5174367 with distance 2.86371
+
+Miliseconds to find best alignment on a single core: 59296.3
+best alignment found at index 5174367 with distance 2.86371
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.1015
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 339.735
+best alignment found at index 5485070 with distance 1.48797
+
+Miliseconds to find best alignment on all cores: 8588.36
+best alignment found at index 5485070 with distance 1.48797
+
+Miliseconds to find best alignment on a single core: 57829.7
+best alignment found at index 5485070 with distance 1.48797
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 11.9616
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 338.532
+best alignment found at index 438030 with distance 1.74022
+
+Miliseconds to find best alignment on all cores: 9006.54
+best alignment found at index 438030 with distance 1.74022
+
+Miliseconds to find best alignment on a single core: 59857.8
+best alignment found at index 438030 with distance 1.74022
+
+ M 128 N 20040000 W 12
+
+= loading data =============================
+Miliseconds to load data: 12.1242
+
+= aligning==================================
+Miliseconds to find best alignment on the GPU: 337.28
+best alignment found at index 480323 with distance 1.99271
+
+Miliseconds to find best alignment on all cores: 8819.04
+best alignment found at index 480323 with distance 1.99271
+
+Miliseconds to find best alignment on a single core: 58952.4
+best alignment found at index 480323 with distance 1.99271
+
